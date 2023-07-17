@@ -13,7 +13,7 @@ user is shown the another window made of grid layout, which shows users the ques
 
 <br />
 
-- Along with this, funcionality has also been provided where user can see theiry previous score by entering the name and the corresponding phone number of the user
+- Along with this, funcionality has also been provided where user can see their previous score by entering the name and the corresponding phone number of the user
 
 <br />
 
