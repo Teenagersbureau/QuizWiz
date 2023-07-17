@@ -2,7 +2,7 @@
 A simple Python Quiz Game Application which has been made from AWT (Abstract Window Toolkit) in Java. Also contains database functionality (MySQL) in which scores of all the users are stored, and also the scores of the previous users can be fetched by entering their name and the corresponding phone number.
 
 # About the project
-The quiz game consistes of a total of three windows. The first window asks the user to enter some of the basic details such as the firstname, lastname, phone number, 
+The quiz game consists of a total of three windows. The first window asks the user to enter some of the basic details such as the firstname, lastname, phone number, 
 email and the college name. 
 
 <br />
