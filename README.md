@@ -7,7 +7,7 @@ email and the college name.
 
 <br />
 
-- On clicking the submit button, the user is redirected to the main quiz window which consists of a total of 10 questions. The user can answer any one of the four given o
+- On clicking the submit button, the user is redirected to the main quiz window which consists of a total of 10 questions. The user can answer any one of the four given 
 option for the specified question. On submitting the answer of the last question, the user details along with the score of the game is stored into the database and the 
 user is shown the another window made of grid layout, which shows users the questions attempted correctly, questions which are attempted wrong and the final score for the game
 
